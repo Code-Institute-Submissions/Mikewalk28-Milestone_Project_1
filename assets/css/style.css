@@ -1,4 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url("assets/images/Concert-rock-music.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
 
 .hero-image {
     height: 0%;
@@ -19,9 +34,45 @@
     font-size:400%;
 }
 
+.navbar {
+    color: white;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
 .album-image {
     height: 300px;
     width: 300px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#banner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: red;
+    width: 100%;
+}
+
+#banner-content {
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+#banner-content:hover {
+    text-decoration: underline;
+}
+
+#about {
+    font-size: small;
 }
 
 footer {
