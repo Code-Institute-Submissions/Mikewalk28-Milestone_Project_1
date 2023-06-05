@@ -21,6 +21,8 @@ body, html {
 #about {
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    width: 100%;
 }
 
 .navbar {
@@ -47,18 +49,18 @@ body, html {
 }
 
 #menu a:hover {
-    color: #000000;
+    color: rgb(219, 219, 20);
 }
 
 .sign-up:hover {
-    color: #000000;
+    color: rgb(219, 219, 20);
 }
 
-.band h4 {
+.band h2 {
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
-    width:6%;
-    height:40px;
+    text-align: center;
+    width: 100%;
 }
 
 * {
@@ -154,6 +156,8 @@ hr {
 .albums {
         color: white;
         background-color: rgba(0, 0, 0, 0.75);
+        text-align: center;
+        width: 100%;
     }
 
 #headers {
@@ -164,6 +168,8 @@ hr {
 .tour-dates {
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    width: 100%;
 }
 
 button {
