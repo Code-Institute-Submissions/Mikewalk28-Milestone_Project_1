@@ -28,6 +28,14 @@ body, html {
     width: 100%;
 }
 
+p.about {
+    /* width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; */
+}
+
 .navbar {
     font-family: sans-serif;
     margin-top: 40px;
