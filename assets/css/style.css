@@ -9,8 +9,8 @@ body, html {
 }
 
 .hero-image {
-    background-image: url("../images/nickelback_stage.jpg");
-    height: 45%;
+    background-image: url("../images/nickelback-logo.jpg");
+    height: 200px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,7 +41,7 @@ body, html {
     height: 40px;
 }
 
-​#banner h4 {
+#banner h4 {
     text-align: center;
     width: 100%;
     margin-top: 5px;
@@ -84,4 +84,29 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #777777;
+}
+
+@media only screen and (min-width: 480px) {
+    #hero-image{
+        height: 500px;
+        background-attachment: fixed;
+        background-size: contain;
+    } 
+}
+
+
+@media only screen and (min-width: 768px) {
+     #hero-image{
+        height: 600px;
+        display: block;
+    } 
+
+}
+
+
+@media only screen and (min-width: 1024px) {
+    #hero-image{
+        height: 700px;
+        display: block;
+    } 
 }
