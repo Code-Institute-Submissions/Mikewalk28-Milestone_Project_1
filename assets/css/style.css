@@ -47,6 +47,14 @@ body, html {
     margin-top: 5px;
 }
 
+#menu a {
+    color: white;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    color: #000000;
+
 
 #meet-the-band {
     color: white;
