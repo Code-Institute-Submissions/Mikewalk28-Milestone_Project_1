@@ -59,9 +59,9 @@ body, html {
 }
 
 
-#tour-dates h2 {
+.tour-dates h4 {
     color: white;
-    background color: rgba(0, 0, 0, 0.75)
+    background-color: rgba(0, 0, 0, 0.75);
 }
 
 button {
