@@ -38,6 +38,7 @@ body, html {
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 #banner {
@@ -55,6 +56,10 @@ body, html {
     text-align: center;
     color: white;
     font-family: sans-serif;
+}
+
+#meet-the-band {
+    color: white;
 }
 
 
