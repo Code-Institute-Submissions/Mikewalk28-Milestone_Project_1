@@ -47,16 +47,12 @@ body, html {
 
 #menu a:hover {
     color: #000000;
-
-
-#meet-the-band {
-    color: white;
 }
-
 
 .albums {
-    color: white;
-}
+        color: white;
+        background-color: rgba(0, 0, 0, 0.75);
+    }
 
 #headers {
     color: white;
