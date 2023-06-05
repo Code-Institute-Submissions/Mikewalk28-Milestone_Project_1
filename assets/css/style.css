@@ -54,6 +54,13 @@ body, html {
     color: #000000;
 }
 
+.band h4 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    width:6%;
+    height:40px;
+}
+
 * {
     box-sizing: border-box
 }
@@ -154,7 +161,7 @@ hr {
 }
 
 
-.tour-dates h4 {
+.tour-dates {
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
 }
