@@ -35,28 +35,18 @@ body, html {
 }
 
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 #banner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: red;
-    width: 100%;
+    background-color: rgba(255, 0, 0, 0.55);
+    color: white;
+    height: 40px;
 }
 
-#banner-content {
-    width: 800px;
-    margin: 0 auto;
-    padding: 10px;
+​#banner h4 {
     text-align: center;
-    color: white;
-    font-family: sans-serif;
+    width: 100%;
+    margin-top: 5px;
 }
+
 
 #meet-the-band {
     color: white;
