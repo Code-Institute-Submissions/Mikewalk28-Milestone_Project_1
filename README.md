@@ -60,6 +60,7 @@ Other problems, mainly varied around positioning of text. Like within the banner
 There was also problems with not clearing cached data, this solved some css issues when all html and css issues were exhausted.
 Error with modal when submitting the form as I hadn't entered the posting method, or action. So this was fixed ready for final deployment.
 Testing heading sizes and how they looked together, mostly on 'albums' and the album title, with how the text looked next to one another. This was a simple <h#> playaround, so no major issues arose.
+Wanted to make the banner clickable and take you to either bottom of page or ticketmaster but didn't manage to complete this; as well as this there is a long scroll, looked into a scroll to top button but when writing the code the button didn't appear, so I removed this.
 
 ### Progressing the idea
 
