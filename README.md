@@ -40,21 +40,44 @@ The choices were made again, based on a natural progression through the website 
 
 ## Code
 
-* Modal sign up from created from https://www.w3schools.com/ used own knowledge combined with syntax on the website
-* Originally attempted making an image a button from https://slackcommunity.com/ however the idea went unused
-* Navlink idea based from https://www.w3schools.com/
-* Footer content based on https://codeinstitute.net/ Love Running module covered
-* https://open.spotify.com/ for code to embed players and then adapted by myself to change the css
+* Modal sign up from created from <https://www.w3schools.com/> used own knowledge combined with syntax on the website
+* Originally attempted making an image a button from <https://slackcommunity.com/>> however the idea went unused
+* Navlink idea based from <https://www.w3schools.com/>
+* Footer content based on <https://codeinstitute.net/> Love Running module covered
+* <https://open.spotify.com/> for code to embed players and then adapted by myself to change the css
 
 ## Sources
 
 * Band information sourced from <https://www.wikipedia.org/> as well as information about the band members
 * Google was used for various images used throughout the page
-* https://open.spotify.com/ was used to embed players
+* <https://open.spotify.com/> was used to embed players
 
 ## Testing and Bugging
 
+Code was written and then previewed each time, there were times when the html and css wouldn't respond and so the styling wasn't acting right. Examples of this were on the headings for each section. Particularly the 'about' section. This was fixed by putting the 'about' in it's own mini section. However, this probably isn't the most ideal or short hand fix.
 ### Progressing the idea
 
 
 ## Deployment
+
+To deploy this website you follow the follow steps:
+
+* git add any changes to your document
+* git commit the changes
+* git push to your github
+* go to github and go to settings and your new website link should exist
+
+Website was deployed in 3 stages. Initial deployment was based for testing purposes to test on all different types of devices and getting feedback before tweaking.
+Inital feedback was good. Recommendations on layout and functionality mainly. This was where some bugs or errors were spotted.
+
+## Positives and Negatives
+
+Upon reflection of the project, there are lots of things that i think worked very well and some things i believe could have been adapted had i had more time or a bit more time. There are features i could have added in like a scroll to the top button, however, i didn't feel fully comfortable implementing this.
+The things i liked were:
+
+* The albums section
+* The layout of the tour dates
+
+Things that could be improved:
+
+* Showing the hero image on all resolutions
