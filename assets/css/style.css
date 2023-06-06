@@ -36,6 +36,12 @@ p.about {
     margin-left: auto; */
 }
 
+.spotify-player {
+    border-radius: 12px;
+    width: 90% !important;
+    height: 152px !important;
+}
+
 .navbar {
     font-family: sans-serif;
     margin-top: 40px;

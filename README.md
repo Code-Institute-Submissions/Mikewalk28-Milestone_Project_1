@@ -34,5 +34,10 @@ The decision of the web page layout comes from both research and feedback from i
 ### 3 Skeleton
 
 Below are images based on a draw up - idea is loose and open to adaptation depending on how the project starts to come together.
-
+(Licence had ran out on the wireframes site and i was unsure of an alternative so i drew them by hand)
+images-for-readme/images2
 The choices were made again, based on a natural progression through the website and again making sure to keep content to a minimum whilst also not making the site look bare. The choice of imagery will be a large factor due to the nature of the band i.e. a Rock band, so this needs to be portrayed in any visuals the use will come across.
+
+## 2 Code
+
+* 
