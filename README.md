@@ -45,6 +45,7 @@ The choices were made again, based on a natural progression through the website 
 * Navlink idea based from <https://www.w3schools.com/>
 * Footer content based on <https://codeinstitute.net/> Love Running module covered
 * <https://open.spotify.com/> for code to embed players and then adapted by myself to change the css
+* <https://bootstrap.com> used to help with templates for tables and column ideas from when module was covered. Syntax remembered from memory
 
 ## Sources
 
