@@ -1,4 +1,5 @@
-body, html {
+body,
+html {
     background-image: url("../images/concert-rock-music.jpg");
     height: 100%;
     background-position: center;
@@ -8,7 +9,7 @@ body, html {
 }
 
 #hero-image {
-    background-image: url("../images/nickelback-logo.jpg"); 
+    background-image: url("../images/nickelback-logo.jpg");
     background-color: rgba(0, 0, 0, 0.75);
     background-size: cover;
     height: 200px;
@@ -20,26 +21,12 @@ body, html {
 
 #about {
     color: white;
-    background-color: rgba(0, 0, 0, 0.75);    
+    background-color: rgba(0, 0, 0, 0.75);
 }
 
 #about h2 {
     text-align: center;
     width: 100%;
-}
-
-p.about {
-    /* width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto; */
-}
-
-.spotify-player {
-    border-radius: 12px;
-    width: 90% !important;
-    height: 152px !important;
 }
 
 .navbar {
@@ -63,6 +50,10 @@ p.about {
 #menu a {
     color: white;
     text-decoration: none;
+}
+
+#menu {
+    background-color: rgba(0, 0, 0, 0.75);
 }
 
 #menu a:hover {
@@ -169,22 +160,27 @@ hr {
 }
 
 .albums {
-        color: white;
-        background-color: rgba(0, 0, 0, 0.75);
-        text-align: center;
-        width: 100%;
-    }
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    width: 100%;
+}
 
 #headers {
     color: white;
 }
 
 
+#tour-dates,
 .tour-dates {
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
     text-align: center;
-    width: 100%;
+}
+
+#tour-dates table {
+    width: 90%;
+    margin-left: 5%;
 }
 
 button {
@@ -194,12 +190,13 @@ button {
     height: 40px;
     width: 100%;
 }
-button h4 {
+
+.buy-now {
     text-align: center;
     width: 100%;
 }
 
-button h4:hover {
+.buy-now:hover {
     color: rgb(219, 219, 20)
 }
 
@@ -220,24 +217,42 @@ footer {
     color: #777777;
 }
 
+
+.spotify-player {
+    width: 90%;
+    height: 152px;
+    border-radius: 12px;
+    border: 0px solid transparent;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.buy-now {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
 @media only screen and (min-width: 480px) {
-    #hero-image{
+    #hero-image {
         height: 500px;
-    } 
+    }
 }
 
 
 @media only screen and (min-width: 768px) {
-     #hero-image{
+    #hero-image {
         height: 600px;
-    } 
+    }
 
 }
 
 
 @media only screen and (min-width: 1024px) {
-    #hero-image{
+    #hero-image {
         height: 700px;
         display: block;
-    } 
+    }
 }
