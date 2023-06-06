@@ -41,7 +41,7 @@ The choices were made again, based on a natural progression through the website 
 ## Code
 
 * Modal sign up from created from <https://www.w3schools.com/> used own knowledge combined with syntax on the website
-* Originally attempted making an image a button from <https://slackcommunity.com/>> however the idea went unused
+* Originally attempted making an image a button from <https://slackcommunity.com/> however the idea went unused
 * Navlink idea based from <https://www.w3schools.com/>
 * Footer content based on <https://codeinstitute.net/> Love Running module covered
 * <https://open.spotify.com/> for code to embed players and then adapted by myself to change the css
@@ -51,7 +51,7 @@ The choices were made again, based on a natural progression through the website 
 * Band information sourced from <https://www.wikipedia.org/> as well as information about the band members
 * Google was used for various images used throughout the page
 * <https://open.spotify.com/> was used to embed players
-*Tour dates from <https://nickelback.com/>
+* Tour dates from <https://nickelback.com/>
 
 ## Testing and Bugging
 
