@@ -55,6 +55,10 @@ The choices were made again, based on a natural progression through the website 
 ## Testing and Bugging
 
 Code was written and then previewed each time, there were times when the html and css wouldn't respond and so the styling wasn't acting right. Examples of this were on the headings for each section. Particularly the 'about' section. This was fixed by putting the 'about' in it's own mini section. However, this probably isn't the most ideal or short hand fix.
+There were no issues with the players playing the music, but there was issues within the html that affected validation, this was solved by changing the lines in the html to be css.
+Other problems, mainly varied around positioning of text. Like within the banner and above the table for the tour dates. This took some playing around with and editing the css with developer tools to find out what worked before throwing it into the style.css file.
+There was also problems with not clearing cached data, this solved some css issues when all html and css issues were exhausted.
+
 ### Progressing the idea
 
 
