@@ -1,39 +1,34 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+##2 UX
 
-Welcome,
+###3 Project goals
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The primary goal of 'Nickelback' is to provide users with a brief but to the point description of the band and their history as well as information on the key players that make up the band. It was also to showcase a taster of their full catalogue of music and promote their 2023 tour. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+###3 Strategy
 
-## Codeanywhere Reminders
+At this first step it was vital to decide, what does a user look for in a Band page? What would generally be the first thing they see, what would be eye catching, how much information would I personally want to see on a band I liked. The process for deciding some of the key features was visiting numerous band pages that are attributed to the same genre and a quick feedback session with some friends on what they would hope to see on a bands webpage. The majority of people said:
+* Some form of description
+* List or taste of music
+* Tour dates/Ticket access
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+###3 Scope
 
-`python3 -m http.server`
+Once settled fown with a generic idea, it was time to refine out the key parts of the website that would work best and start to think on a large scale ways and means in which they could be presented.
+* Bands about information 
+  This was the first decision to make. This needs to be short and sweet as not to overload the user with too much to read and take away from the actual purpose of the site. The majority of people go to a bands webpage to check on touring news or to look at merchandise. This doesn't however always suit potentially new listeners and so needs to target those.
+* Meet The Band
+  This isn't often part of a bands page but a potentially nice touch because the imagery used to show the band can make them look exactly how you want, are they fun on stage, do they look fun, are they cool, hip? first impressions on new users is what could draw them in to liking the music.
+* Discography
+  A few band pages hold YouTube video links to its content, so it was deciding here how do you make the music section eye-catching? How to you draw them in to play, how do you make sure this is a solid, working section. Is this Album image, track list, links to external sources? This was a two part decision and will be chosen further in the process based on future testing. It will either be album covers and a full track list or embedded players based on feel and look at a later date.
+* Tour dates
+  What is the best way to list the tour dates? Can you list by region, does each date have it's own ticket link? This will be toyed around with, however at first instinct, it's own table would probably be best suited to convey the information in the best way and one link at the bottom of the page.
+  
+###3 Structure
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The decision of the web page layout comes from both research and feedback from initial design which will be noted in the skeleton section. Separate the web page into sections/pages (again the choice will depend on easability and friendliness) one with the about info and the meet the band, relatively short page all in all but enough to drag you in. Another with the music of the band so there is nothing taking away from it and then finally a tour dates page for the user to see if their are any gigs in their area. This choice of layout seemed best because it was a natural progression from learning about the band - engaging with the band - wanting more from the band.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+###3 Skeleton
 
-`http_server`
+Below are images based on a draw up - idea is loose and open to adaptation depending on how the project starts to come together.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+The choices were made again, based on a natural progression through the website and again making sure to keep content to a minimum whilst also not making the site look bare. The choice of imagery will be a large factor due to the nature of the band i.e. a Rock band, so this needs to be portrayed in any visuals the use will come across. 
