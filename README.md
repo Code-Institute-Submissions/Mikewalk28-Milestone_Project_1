@@ -51,6 +51,7 @@ The choices were made again, based on a natural progression through the website 
 * Band information sourced from <https://www.wikipedia.org/> as well as information about the band members
 * Google was used for various images used throughout the page
 * <https://open.spotify.com/> was used to embed players
+*Tour dates from <https://nickelback.com/>
 
 ## Testing and Bugging
 
