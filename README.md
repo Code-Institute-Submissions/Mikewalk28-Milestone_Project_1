@@ -58,9 +58,13 @@ Code was written and then previewed each time, there were times when the html an
 There were no issues with the players playing the music, but there was issues within the html that affected validation, this was solved by changing the lines in the html to be css.
 Other problems, mainly varied around positioning of text. Like within the banner and above the table for the tour dates. This took some playing around with and editing the css with developer tools to find out what worked before throwing it into the style.css file.
 There was also problems with not clearing cached data, this solved some css issues when all html and css issues were exhausted.
+Error with modal when submitting the form as I hadn't entered the posting method, or action. So this was fixed ready for final deployment.
+Testing heading sizes and how they looked together, mostly on 'albums' and the album title, with how the text looked next to one another. This was a simple <h#> playaround, so no major issues arose.
 
 ### Progressing the idea
 
+The idea went from 3 pages to one page after a review with my mentor saying it would be more aesthetically pleasing on one page especailly if using a mobile browser. The layout of the band members changed from 2x2 to having all 4 in a line on a desktop/laptop and then to 2x2 on a tablet and on top of one another on a mobile device. The albums page where originally was an image and a tracklist was changed to just be the embedded player as it had the scrollable tracklist, album cover and a background colour to suit each albums theme. Headings were added and styled and looked at in comparison to one another.
+Tour dates was probably the only consistent idea to show them in a table with a button at the bottom. However, the idea was scrapped to make it look like a ticket.
 
 ## Deployment
 
@@ -73,6 +77,8 @@ To deploy this website you follow the follow steps:
 
 Website was deployed in 3 stages. Initial deployment was based for testing purposes to test on all different types of devices and getting feedback before tweaking.
 Inital feedback was good. Recommendations on layout and functionality mainly. This was where some bugs or errors were spotted.
+Second deployment was done after fixes to headings, sizing of the players and testing of all buttons and features.
+Final deployment was done after all code was fixed with <https://validator.w3.org/> which checked both html and css. This is now the finished version and feedback on this has been good, positive advice on the players and the layout structure.
 
 ## Positives and Negatives
 
